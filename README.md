@@ -1,10 +1,10 @@
 <p align="center"><img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/></p>
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
-<h3 align="center">Full stack developer( Team Lead) from Toronto</h3>
+<h3 align="center">Lead (Full Stack Developer) from Toronto</h3>
 
 <p align="center">📫 How to reach me  <a href="mailto:mallharpreet@hotmail.ca">Email </a></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Some common languages and Tools currently using:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
