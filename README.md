@@ -18,8 +18,10 @@ const About = () => {
 
   const getDailyKnowledge = () => ([
     'React',
+    'Next.js',
     'Javascript',
     'TailwindCss',
+    'Styled Components',
     'Typescript',
     'Redux',
     'AWS-S3',
