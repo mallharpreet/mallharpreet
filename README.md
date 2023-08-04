@@ -36,7 +36,9 @@ const About = () => {
   return (
     <div>
       <h1>Current Workplace</h1>
-      <pre>{JSON.stringify(getCurrentWorkplace(), null, 2)}</pre>
+      <p>Company: {workplace.company}</p>
+      <p>Position: {workplace.position}</p>
+      <p>Location: {workplace.location}</p>
 
       <h1>Daily Knowledge</h1>
       <ul>
