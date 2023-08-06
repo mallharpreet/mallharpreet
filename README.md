@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/></p>
+<p align="center"><img width='300px'src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"/></p>
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
 
 <p align="center">📫 How to reach me  <a href="mailto:mallharpreet@hotmail.ca">Email </a></p>
