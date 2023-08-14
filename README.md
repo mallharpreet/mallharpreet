@@ -19,6 +19,7 @@ const About = () => {
   const getDailyKnowledge = () => ([
     'React',
     'Next.js',
+    'Astro Js',
     'Javascript',
     'TailwindCss',
     'Styled Components',
